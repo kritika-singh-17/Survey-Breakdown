@@ -4,8 +4,7 @@ This Power BI project visualizes and analyzes survey data to extract meaningful 
 
 
 The main goal of this dashboard is to:
-
-~ Provide an at-a-glance summary of survey results
-~ Analyze participant demographics
-~ Understand satisfaction trends
-~ Highlight areas for improvement or focus
+- Provide an at-a-glance summary of survey results
+- Analyze participant demographics
+- Understand satisfaction trends
+- Highlight areas for improvement or focus
